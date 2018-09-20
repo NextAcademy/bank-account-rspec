@@ -15,7 +15,7 @@ describe Account do
 
   end
 
-  describe "#account_number" do
+  describe "#acct_number" do
 
   end
 
